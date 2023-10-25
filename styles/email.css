@@ -1,0 +1,21 @@
+p, span{
+    color: rgb(96,96,96);
+    font-size: 25px;
+}
+
+body{
+    background-color: rgb(248, 248, 248);
+}
+
+.mail-link{
+    font-size: 25px;
+}
+
+.email-description{
+    margin-top: 60px;
+    margin-left: 95px;
+}
+
+.email-image{
+    height: 500px;
+   }
